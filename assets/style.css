@@ -354,7 +354,7 @@ body.dark-theme{
 
 .skills__box{
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     column-gap: 3rem;
 }
 
